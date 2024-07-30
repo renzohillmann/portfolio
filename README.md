@@ -24,7 +24,7 @@
 
 ## Projects
 ### Climate change in Colombia: A case study of temperature trends in four distinct locations (Data Science in Python)
-[Publication](https://github.com/renzohillmann/portfolio/edit/main/README.md)
+[Publication](https://renzohillmann.github.io/portfolio/)
 
 ![Results](/assets/proyect2.PNG)
 
