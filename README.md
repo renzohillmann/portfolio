@@ -4,6 +4,7 @@
 
 ## Education
 - B.S., Physics | National University of Colombia (Expected date: _May 2025_)
+  *Relevant Coursework:* Computational Physics and HPC, Statistical Mechanics, Statistics and Probability, Mathematical Methods for Physics, Gen. Relativity, Quantum Mechanics, Int. Experimental Research, Science of Climate Change.
 
 ## Languages
 
