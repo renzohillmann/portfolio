@@ -7,9 +7,9 @@
 
 ## Languages
 
-- Spanish :Colombia: (Native)
-- English :USA: (C1)
-- German :Germany: (B2)
+- Spanish 🇨🇴 (Native)
+- English 🇺🇸 (C1)
+- German 🇩🇪 (B2)
 
 ## Work Experience
 **Tutor of Physics and Math @ IPARM - National University of Colombia (_February 2019 - September 2019_)**
