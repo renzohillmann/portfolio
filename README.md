@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, C++, Linux.
 
 ## Education
-- B.S., Physics | National University of Colombia (_May 2025_)
+- B.S., Physics | National University of Colombia (Expected date: _May 2025_)
 
 ## Languages
 
@@ -27,6 +27,12 @@
 ![Results](/assets/proyect2.PNG)
 
 The temperature increase was identified at four distinct locations in Colombia (using **Python**), each exhibiting unique climatic characteristics. The findings suggest that there is a possibility that the temperature is increasing at a faster rate in regions with colder and warmer climates when compared to those with moderate climates. In regions with lower temperatures, such as high mountains ('Nevados', Paramos, and glaciers, including those observed in La Sierra Nevada del Cocuy), the temperature change is more pronounced than in other locations. In El Cocuy, for instance, a noteworthy increase of 6°C of the daily maximum temperature was recorded.
+
+### Site Percolation and Threshold analysis using Union-Find algorithms in C++
+
+![Results](/assets/Percolation.JPG)
+
+We found the probability that a percolating cluster exists in a randomly filled square matrix with a given size L. The Hoshen-Kopelman algorithm was adapted, which labels the existing clusters in a grid, to differentiate them from each other and finally find the percolating clusters. 
 
 
 ## Certified Online Courses
