@@ -24,6 +24,8 @@
 ### Climate change in Colombia: A case study of temperature trends in four distinct locations (Data Science in Python)
 [Publication](https://github.com/renzohillmann/portfolio/edit/main/README.md)
 
+![Results](/assets/proyect2.PNG)
+
 The temperature increase was identified at four distinct locations in Colombia (using **Python**), each exhibiting unique climatic characteristics. The findings suggest that there is a possibility that the temperature is increasing at a faster rate in regions with colder and warmer climates when compared to those with moderate climates. In regions with lower temperatures, such as high mountains ('Nevados', Paramos, and glaciers, including those observed in La Sierra Nevada del Cocuy), the temperature change is more pronounced than in other locations. In El Cocuy, for instance, a noteworthy increase of 6°C of the daily maximum temperature was recorded.
 
 
