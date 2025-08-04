@@ -1,6 +1,18 @@
 # Data Scientist and AI Engineer
 
-#### Technical Skills: Python, SQL, C++, Linux.
+## Technical Skills
+
+**Cloud & AI Platforms:**  
+Azure Cloud · Azure AI Services · Azure OpenAI · Cognitive Services
+
+**AI Frameworks & Orchestration:**  
+LangGraph · LangChain · Semantic Kernel
+
+**Programming Languages:**  
+Python · C# · C++ · SQL
+
+**DevOps & Infrastructure:**  
+Terraform · CI/CD (Azure DevOps, GitHub Actions) · REST APIs · Git
 
 ## Education
 - B.S., Physics | National University of Colombia (Expected date: _June 2026_)
