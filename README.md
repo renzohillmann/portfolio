@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, C++, Linux.
 
 ## Education
-- B.S., Physics | National University of Colombia (Expected date: _May 2025_)
+- B.S., Physics | National University of Colombia (Expected date: _June 2026_)
 
   *Relevant Coursework:* Computational Physics and HPC, Statistical Mechanics, Statistics and Probability, Mathematical Methods for Physics, Gen. Relativity, Quantum Mechanics, Int. Experimental Research, Science of Climate Change.
 
