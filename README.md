@@ -1,4 +1,4 @@
-# Data Scientist and Researcher
+# Data Scientist and AI Engineer
 
 #### Technical Skills: Python, SQL, C++, Linux.
 
@@ -14,13 +14,14 @@
 - German 🇩🇪 (B2)
 
 ## Work Experience
-**Tutor of Physics and Math @ IPARM - National University of Colombia (_February 2019 - September 2019_)**
-- Guided senior high school students to improve their grades and understanding of science.
-- Developed communication and teaching skills 
 
 **Teacher of Physics, Math and Computer Science @ Freelance (_January 2021 - Present_)**
 - Guided university and high school students to understand science and achieve computer science literacy
-- Further honed my computer science and teaching skills  
+- Further honed my computer science and teaching skills
+
+- **Data Scientist @ DataKnow (_Marzo 2025 - Present_)**
+- Develop and integrate generative AI solutions using Azure OpenAI, Cognitive Services, and custom pipelines.
+
 
 ## Projects
 ### Climate change in Colombia: A case study of temperature trends in four distinct locations (Data Science in Python)
@@ -35,6 +36,11 @@ The temperature increase was identified at four distinct locations in Colombia (
 ![Results](/assets/Percolation.JPG)
 
 We found the probability that a percolating cluster exists in a randomly filled square matrix with a given size L. The Hoshen-Kopelman algorithm was adapted, which labels the existing clusters in a grid, to differentiate them from each other and finally find the percolating clusters. 
+
+## Certifications
+
+-	Microsoft Certified: Azure AI Engineer Associate (AI-102)
+-	Microsoft Certified: Azure AI Fundamentals (AI-900)
 
 
 ## Certified Online Courses
