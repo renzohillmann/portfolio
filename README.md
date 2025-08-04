@@ -19,7 +19,7 @@
 - Guided university and high school students to understand science and achieve computer science literacy
 - Further honed my computer science and teaching skills
 
-- **Data Scientist @ DataKnow (_Marzo 2025 - Present_)**
+**Data Scientist @ DataKnow (_Marzo 2025 - Present_)**
 - Develop and integrate generative AI solutions using Azure OpenAI, Cognitive Services, and custom pipelines.
 
 
