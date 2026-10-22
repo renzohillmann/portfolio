@@ -1,4 +1,8 @@
-# Data Scientist and AI Engineer
+**Building intelligent systems at the intersection of machine learning, cloud engineering, and computational science.**
+
+I design and develop AI applications, data platforms, and LLM-powered systems. With a foundation in physics, I bring mathematical modeling, scientific reasoning, and engineering discipline to real-world problems.
+
+`Generative AI` · `Azure & Data Platforms` · `Scientific Computing`
 
 ## Technical Skills
 
