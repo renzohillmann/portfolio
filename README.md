@@ -1,3 +1,5 @@
+### Data Scientist & AI Engineer
+
 **Building intelligent systems at the intersection of machine learning, cloud engineering, and computational science.**
 
 I design and develop AI applications, data platforms, and LLM-powered systems. With a foundation in physics, I bring mathematical modeling, scientific reasoning, and engineering discipline to real-world problems.
@@ -35,8 +37,15 @@ Terraform · CI/CD (Azure DevOps, GitHub Actions) · REST APIs · Git
 - Guided university and high school students to understand science and achieve computer science literacy
 - Further honed my computer science and teaching skills
 
-**Data Scientist @ DataKnow (_Marzo 2025 - Present_)**
-- Develop and integrate generative AI solutions using Azure OpenAI, Cognitive Services, and custom pipelines.
+**Data Scientist @ DataKnow (_March 2025 - Present_)**
+
+Design and develop AI-powered applications, data workflows, and cloud-native solutions for enterprise use cases.
+
+- **Generative AI & RAG:** Develop knowledge-retrieval applications and LLM orchestration workflows using Azure AI services, Python, and modern AI frameworks.
+- **Cloud Engineering & LLMOps:** Implement containerized workloads, CI/CD pipelines, and automated deployment workflows in Azure.
+- **Data Engineering:** Build and integrate ingestion, transformation, and processing workflows using Microsoft Fabric, SQL, and Python.
+- **Applied Machine Learning:** Work on customer segmentation, model monitoring, data quality, and distribution drift analysis.
+- **Engineering Practices:** Apply version control, environment configuration, API integration, and reproducible development practices.
 
 
 ## Projects
@@ -57,6 +66,7 @@ We found the probability that a percolating cluster exists in a randomly filled 
 
 -	Microsoft Certified: Azure AI Engineer Associate (AI-102)
 -	Microsoft Certified: Azure AI Fundamentals (AI-900)
+
 
 
 ## Certified Online Courses
